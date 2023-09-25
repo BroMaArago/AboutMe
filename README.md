@@ -1,4 +1,5 @@
 # Hello, my name is Maximilian
+
 ### I'm junior developer. My path to IT started from Swift language on course SwiftBook, after that i had a break. I tried myself in different directions. I started learning python at  september 2023.
 
 # Interests: NLP, Python, Machine Learning, Deep Learning, AI, IOS
