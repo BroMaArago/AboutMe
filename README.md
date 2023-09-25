@@ -5,4 +5,4 @@ I'm junior developer. My path to IT started from Swift language on course SwiftB
 # Technologies: Python, Swift
 
 <div id="header" align="center">
-<img src = "https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="1000"/>
+<img src = "https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="700"/>
