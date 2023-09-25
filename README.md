@@ -7,6 +7,6 @@
 
 # Interests: NLP, Python, Machine Learning, Deep Learning, AI, IOS
 
-# Technologies: https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg Python, Swift
+# Technologies: Python, Swift
 
 
