@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src = "[https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN2cGZxNTVlZjllb2wycHh4c2U3b3U3eTlvcDA1bTM1aDJsZmRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif)" width="300"/>
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmN2cGZxNTVlZjllb2wycHh4c2U3b3U3eTlvcDA1bTM1aDJsZmRsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 
 # Hello, my name is Maximilian
 
