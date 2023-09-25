@@ -7,7 +7,7 @@
 
 # Interests: NLP, Python, Machine Learning, Deep Learning, AI, IOS
 
-# Technologies: <img src = "https://www.flaticon.com/ru/free-icon/python_2621053" width ="100" /> Python, Swift
+# Technologies: <img src = "https://www.flaticon.com/ru/free-icon/python_2621053" width ="10" /> Python, Swift
 
 <img src="https://komarev.com/ghpvc/?username=BroMaArago&style=flat-square&color=blue" alt=""/>
 
