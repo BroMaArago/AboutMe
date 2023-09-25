@@ -9,4 +9,5 @@
 
 # Technologies: Python, Swift
 
+<img src="https://komarev.com/ghpvc/?username=BroMaArago&style=flat-square&color=blue" alt=""/>
 
