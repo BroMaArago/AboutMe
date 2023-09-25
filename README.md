@@ -7,6 +7,6 @@
 
 # Interests: NLP, Python, Machine Learning, Deep Learning, AI, IOS
 
-# Technologies: https://img.shields.io/badge/:badgeContent?logo=%233776AB Python, Swift
+# Technologies: Python, Swift
 
 
