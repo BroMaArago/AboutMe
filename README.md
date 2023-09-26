@@ -7,7 +7,8 @@
 
 # Interests: *NLP*, *Python*, *Machine Learning*, *Deep Learning*, *AI*, *IOS*
 
-# Technologies: *Python*, *Swift*
+# Technologies: ![image](https://github.com/BroMaArago/AboutMe/assets/100675743/fdbf6771-0670-4c3e-a5ba-4fc68405e607)
+*Python*, *Swift*
 
 <img src="https://komarev.com/ghpvc/?username=BroMaArago&style=flat-square&color=blue" alt=""/>
 
