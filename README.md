@@ -7,7 +7,7 @@
 
 # Interests: *NLP*, *Python*, *Machine Learning*, *Deep Learning*, *AI*, *IOS*
 
-# Technologies: *Python*, *Swift*
+# Technologies: <img src= "https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor = black " width="223"/><img src= "https://img.shields.io/badge/Swift-FFFFFF?style=for-the-badge&logo=Swift&logoColor = orange " width="200"/>
 
 <img src="https://komarev.com/ghpvc/?username=BroMaArago&style=flat-square&color=blue" alt=""/>
 
